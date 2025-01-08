@@ -20,4 +20,8 @@ body {
 	right: 15px;
 	bottom: 10px;
 	background: lightgray;
+    /* background: pink; */
+}
+canvas {
+    background: pink;
 }
